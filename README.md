@@ -1,4 +1,6 @@
-<img width="2480" height="3508" alt="back" src="https://github.com/user-attachments/assets/8c56744a-80e5-4d65-9367-f7d98131aa1e" /># GEE Scripts for Spatiotemporal Analysis of AOD and Precipitation
+<img width="2480" height="3508" alt="back" src="https://github.com/user-attachments/assets/8c56744a-80e5-4d65-9367-f7d98131aa1e" />
+
+# GEE Scripts for Spatiotemporal Analysis of AOD and Precipitation
 
 This repository provides a comprehensive set of Google Earth Engine (GEE) scripts for retrieving, analyzing, and exporting **Aerosol Optical Depth (AOD)** and **precipitation** data across multiple spatial and temporal scales. These tools are intended for environmental monitoring, air quality research, and hydrological studies.
 
